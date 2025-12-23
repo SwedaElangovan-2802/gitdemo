@@ -5,3 +5,7 @@ This line is added from main branch
 This line is added from A branch
 
 This line is added from B branch
+
+This line is added from C branch
+
+
